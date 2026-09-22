@@ -1,2 +1,9 @@
-# Dsa-Code3
-Input one 1-D array and one 2-D array
+
+printf("\n\n Traversing (2-D) Array :\n");
+for (i = 0; i < 2; i++) {
+    for (j = 0; j < 3; j++) {
+        printf("%d ", a[i][j]); 
+    }
+    printf("\n");
+}
+return 0;
